@@ -1,5 +1,5 @@
 div{
-  background-image: url("../images/notepad.jpg");
+  background-image: url("notepad.jpg");
 padding-top: 1cm;
 padding-bottom:1cm;
 margin-right:1cm;
@@ -7,7 +7,7 @@ margin-left:1cm;
 margin-bottom:1cm;
  
 }body {
-   background-image: url("../images/hardwood.png");
+   background-image: url("hardwood.png");
  }
 
 
@@ -17,7 +17,7 @@ p{
 	padding-right:1.5cm;
 }
 button{
-    background-image: url("../images/stickynote2.jpg");
+    background-image: url("stickynote2.jpg");
     width:100%;
     color:black;
     font-size: 15pt;
@@ -27,7 +27,7 @@ button{
   	height: 50px;
 }
 .stickynote2{
-  background-image: url("../images/stickynote.jpg");
+  background-image: url("stickynote.jpg");
    width:100%;
     color:black;
     font-size: 15pt;
@@ -37,7 +37,7 @@ button{
     height: 50px;
 }
 .stickynote1{
-  background-image: url("../images/sticknote3.jpg");
+  background-image: url("sticknote3.jpg");
 }
 h1 {
   color: yellow;
@@ -77,4 +77,5 @@ p{
 }
 .side2{
   width: 25%;
+
 }
